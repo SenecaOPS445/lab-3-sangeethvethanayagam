@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
+# Author ID: svethanayagam3
+
 
 '''Lab 3 Inv 2 function operate '''
-# Author ID: svethanayagam3
 
 def operate(number1, number2, operator):
 
